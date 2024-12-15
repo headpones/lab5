@@ -12,3 +12,4 @@ E:\lab5\Task2\Task2\obj\Debug\net9.0\refint\Task2.dll
 E:\lab5\Task2\Task2\obj\Debug\net9.0\Task2.pdb
 E:\lab5\Task2\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
 E:\lab5\Task2\Task2\obj\Debug\net9.0\ref\Task2.dll
+E:\lab5\Task2\Task2\obj\Debug\net9.0\Task2.sourcelink.json
